@@ -1,5 +1,14 @@
 # PPSActividad4Unidad1Ignacio
 
+## 🔍 Buscar alternativas para probar la aplicación en una Sandbox
+Existen varias formas de crear un entorno controlado para probar tu aplicación:
+
+- **Máquina Virtual**: Puedes usar VirtualBox o VMware para crear un entorno aislado.
+- **Docker**: Si tu aplicación es compatible con contenedores, puedes crear una imagen y ejecutarla en un contenedor Docker.
+- **Emuladores**: Si tu aplicación es móvil, puedes usar Android Studio (para Android) o Xcode (para iOS).
+- **Sandbox online**: Puedes usar servicios como [JSFiddle](https://jsfiddle.net/) (para JavaScript), [Replit](https://replit.com/) o [CodeSandbox](https://codesandbox.io/) dependiendo del lenguaje de programación de tu calculadora.
+- **Entorno Virtual Python**: Si tu aplicación está en Python, puedes usar `venv` para aislar dependencias.
+
 ## 🛠 Pasos para la prueba en Windows Sandbox
 
 ### 1️⃣ Activar Windows Sandbox (si no está habilitado)
